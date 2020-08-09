@@ -14,7 +14,7 @@ The entered user's repos are showing on Home Page.
 # Repo Detail Page
 İf user click the star button, repository will be added to Favorites via Room Database
 
-![RepoDetail](https://github.com/MCagriCAGLAR/AndroidKotlinMVVMRxJavaRetrofitRecyclerViewRoomCaseStudy/blob/master/repodetail.jpg.jpg "Repo Detail")
+![RepoDetail](https://github.com/MCagriCAGLAR/AndroidKotlinMVVMRxJavaRetrofitRecyclerViewRoomCaseStudy/blob/master/repodetail.jpg "Repo Detail")
 
 
-![RepoAdded](https://github.com/MCagriCAGLAR/AndroidKotlinMVVMRxJavaRetrofitRecyclerViewRoomCaseStudy/blob/master/repoadded.jpg.jpg "Repo Added")
+![RepoAdded](https://github.com/MCagriCAGLAR/AndroidKotlinMVVMRxJavaRetrofitRecyclerViewRoomCaseStudy/blob/master/repoadded.jpg "Repo Added")
